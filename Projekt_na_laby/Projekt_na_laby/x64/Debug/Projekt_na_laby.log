@@ -1,0 +1,12 @@
+﻿  source.cpp
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(47,13): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(56,13): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(150,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(150,18): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(151,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(153,43): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(153,40): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(184,21): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(184,16): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\source.cpp(185,18): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Projekt_na_laby.vcxproj -> C:\Users\jakub\source\repos\Projekt_na_laby\x64\Debug\Projekt_na_laby.exe
