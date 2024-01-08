@@ -1,0 +1,8 @@
+﻿  Źródło.cpp
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(19,20): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(19,66): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(21,68): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(21,52): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(50,50): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\jakub\source\repos\Test_VS\Test_VS\Źródło.cpp(228,33): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Test_VS.vcxproj -> C:\Users\jakub\source\repos\Test_VS\x64\Debug\Test_VS.exe
