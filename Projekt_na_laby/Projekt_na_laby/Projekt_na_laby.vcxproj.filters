@@ -18,16 +18,25 @@
     <ClCompile Include="source.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_1.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Klasy.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\Test_VS\Test_VS\spaceship.png">
-      <Filter>Pliki źródłowe</Filter>
-    </Image>
-    <Image Include="Enemy1.png">
-      <Filter>Pliki źródłowe</Filter>
-    </Image>
-    <Image Include="Bullet.png">
-      <Filter>Pliki źródłowe</Filter>
-    </Image>
+    <ClInclude Include="Menu.h">
+      <Filter>Pliki zasobów\Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Poziomy.h">
+      <Filter>Pliki zasobów\Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Klasy.h">
+      <Filter>Pliki zasobów\Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
