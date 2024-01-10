@@ -1,0 +1,6 @@
+﻿  Klasy.cpp
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\Klasy.cpp(119,25): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\Klasy.cpp(136,24): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\Klasy.cpp(105): warning C4715: "Laser::outOfBounds”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\jakub\source\repos\Projekt_na_laby\Projekt_na_laby\Klasy.cpp(109): warning C4715: "Laser::belowBounds”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt_na_laby.vcxproj -> C:\Users\jakub\source\repos\Projekt_na_laby\x64\Debug\Projekt_na_laby.exe
